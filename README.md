@@ -1,10 +1,2 @@
-3D scene model retrieval plays an important role in content-based 3D model retrieval. To promote this research field, we organized
-four Shape Retrieval Contest (SHREC) tracks on 2D scene sketch/image-based 3D scene retrieval in 2018 and 2019. In addition,
-there is a lot of semantic information (i.e., object-object, object-scene, object parts and groups) existing in 3D scene models. In
-this paper, to further improve 3D scene model retrieval accuracy, we first build a semantic scene tree to incorporate such helpful
-semantic information into the retrieval process, and then propose a semantics-based large-scale 3D scene retrieval approach. In
-our approach, the object-object semantic relatedness information can be automatically learned by utilizing Gradient Descent-based
-deep learning method during the retrieval process. Experiments demonstrate that our semantics-based approach can effectively
-capture the semantic information of 3D scene models, accurately measure their similarities, and thus significantly improves the
-retrieval performance.
+3D scene model retrieval is a new and challenging research topic in content-based 3D model retrieval. It has played a more and more important role in related applications such as games and movie production, VR/AR/MR, and 3D entertainment where automatic 3D content production are necessary and important. However, there is a lot of semantic information (i.e., object-object and object-scene relationships) existing in 3D scene models but unexplored in the available 3D scene retrieval methods. To improve 3D scene model retrieval performance, we first construct a comprehensive scene semantic tree that integrates valuable scene semantic information which automatically encodes learned scene object occurrence probabilities in a scene category. Then, an innovative semantics-driven image-based 3D scene retrieval approach is developed by leveraging the established scene semantic tree. Experiments demonstrate that our semantics-based approach can effectively capture the semantic information of 3D scene models, accurately measure their similarities, and thus significantly improve the retrieval performance. The experimental results, code, and data can be found on this project homepage.
  
