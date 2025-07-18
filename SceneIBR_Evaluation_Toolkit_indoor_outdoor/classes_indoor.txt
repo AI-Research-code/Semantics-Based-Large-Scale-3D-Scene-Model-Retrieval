@@ -1,0 +1,13 @@
+auditorium
+bedroom
+classroom
+conference_room
+hotel_room
+kitchen
+library
+office
+reception
+restaurant
+shower
+supermarket
+waiting_room

@@ -1,0 +1,17 @@
+airport_terminal
+apartment_building_outdoor
+arch
+barn
+beach
+castle
+dam
+desert
+football_stadium
+great_pyramid
+mountain
+phone_booth
+river
+school_house
+skyscraper
+water_tower
+windmill
