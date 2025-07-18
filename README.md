@@ -1,4 +1,4 @@
-# Source Code of 3D Scene Recognition Methods DRF and sMVCNN
+# Repository
 This is the source code repository for the methods evaluated in the following manuscript:
 
 "**Semantics-Driven Image-Based 3D Scene Retrieval**". 
